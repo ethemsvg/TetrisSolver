@@ -31,9 +31,9 @@ Clone the repository to your local machine or download the source code files.
 Open a terminal or command prompt and navigate to the project directory.
 Use the provided makefile to compile the program:
 
-`make`
-`./driver1`
-`./driver2`
+```make```
+```./driver1```
+```./driver2```
 
 Follow the prompts in driver2.cpp to specify the Tetris board size and select Tetrominos. 
 Feel free to explore the code, adapt it to your needs, and modify the program as desired. Should you encounter any questions or issues, do not hesitate to reach out !
